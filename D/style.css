@@ -11,3 +11,6 @@ p {
     background: ;
     background: hsl(0, 92%, 45%)
 }
+em strong {
+    color:blue;
+}
